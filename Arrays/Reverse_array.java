@@ -1,5 +1,5 @@
 package Arrays;
-import java.io.*;
+
 import java.util.Arrays;
 
 public class Reverse_array {
