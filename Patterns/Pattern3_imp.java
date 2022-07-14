@@ -1,10 +1,15 @@
 package Patterns;
 
+import java.util.Arrays;
+
 public class Pattern3_imp {
 
     public static void main(String[] args) {
+        int c[]= new int[10];
         int i, j;
         int n = 4;
+        System.out.println(Arrays.toString(c));
+         
 
         // for(i=1;i<=n;i++)
         // {
