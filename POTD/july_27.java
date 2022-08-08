@@ -20,14 +20,11 @@ public class july_27
     static void smallest(int a[],int k)
     {
         int n=a.length;
-
+        int count=0;
         Arrays.sort(a);
         int c=a[0]+a[1];
-        
-       
-
-
-
+        count++;
+        System.out.println(count);
     }
 
      static boolean check(int a[],int k)
@@ -39,6 +36,7 @@ public class july_27
             if(a[i]<k)
             {
                 flag=1;
+                break;
             }
         }
 
