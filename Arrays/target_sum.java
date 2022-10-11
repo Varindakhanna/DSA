@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.HashSet;
 
 public class target_sum {
@@ -17,7 +17,7 @@ public class target_sum {
     static int check(int a[],int targetsum)
     {
         int c=0;
-        HashSet hs=new HashSet();
+        HashSet<Integer> hs=new HashSet<>();
         
         for(int i=0; i<=a.length-1; i++)
         {

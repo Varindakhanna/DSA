@@ -1,11 +1,8 @@
-package Arrays;
-
-
 public class Swap_alternate_array 
 {
     public static void main(String[] args) 
     {
-        int a[]={1,2,3,4,5};
+        int a[]={1};
         swap_alternate(a);
         int i;
         for(i=0;i<a.length;i++)

@@ -1,4 +1,4 @@
-package Arrays;
+
 
 import java.util.Arrays;
 
@@ -18,7 +18,7 @@ public class Reverse_array {
         int i;int temp;
         int n=a.length;
         System.out.println(n);
-        for(i=0;i<n/2;i++)
+        for(i=0;i<n;i++)
         {
             temp=a[i];
             a[i]=a[(n-1)-i];

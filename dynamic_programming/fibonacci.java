@@ -1,18 +1,17 @@
-package dynamic_programming;
+
 import java.util.*;
 public class fibonacci 
 {
     static long dp[];
     public static void main(String[] args) 
     {
-        int n=49;
-        dp = new long[n+1];
+        long n=10;
+        dp = new long[(int) (n+1)];
         Arrays.fill(dp,-1);
         System.out.println(fibo(n));
         
     }
-
-    static long fibo(int n)
+    static long fibo(long n)
     {
         //top down approach
 
@@ -47,7 +46,7 @@ public class fibonacci
             dp[i]=dp[i-1]+dp[i-2];
             
         }
-        return dp[n];
+        return dp[(int) n];
        
            
         
