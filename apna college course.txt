@@ -1,0 +1,52 @@
+pattern 1 :- https://drive.google.com/drive/folders/1-LzwgmAVcmuV9A_W1bS1Kuca1QOC6K3M
+
+functions and methods :- https://drive.google.com/drive/folders/1GZBcADxBesxxZTuMx0qYgelUVjMcgMr2
+
+pattern 2:- https://drive.google.com/drive/folders/1-EBLfeCj2wvntxbEsEv1kctKiY-6us7J
+
+Arrays :- https://drive.google.com/drive/folders/10L3Ia2VO4xKV0lmAx4KcBDXYsrZ0p-vv
+
+basic sorting algorithm :- https://drive.google.com/drive/folders/158Nwx-gdB-ZKc_GW2piuqy9t0NjLrRsW
+
+2d array :- https://drive.google.com/drive/folders/1BLD_3il1YbV-KT4QABcFjPOFlxHmvGJf
+
+strings:- https://drive.google.com/drive/folders/17xkHd6ztiVaQjkmfiEDUx3gVcIEaCoBT
+
+bit manipulation :- https://drive.google.com/drive/folders/1GaL81nasNc_-sltXuqeYtmY8oHAxvJsQ
+
+oops:- https://drive.google.com/drive/folders/11uycWFtpo4my2vtLjiBVKSSdwl_1MsFs
+
+recursion :- https://drive.google.com/drive/folders/17F1FXXNs-4dkLD4fCDFBYNFAUXW99Bgp
+
+divide and conquer:- https://drive.google.com/drive/folders/19asRxnOKkcqTFNI-v6NzOsQery9Juhyn
+
+time complexity:- https://drive.google.com/drive/folders/11SpxK_pNWuMzzE2pHdB-56Cmce8h3BnB
+
+backtracking:- https://drive.google.com/drive/folders/149RQ5u66tXKlWJF8TTYya0uqemRifm2E
+
+Arraylist:- https://drive.google.com/drive/folders/1DJ-DykPcugdIOOuuZ98ZK4GBTAgCwYKQ
+
+linked list part 1 :- https://drive.google.com/drive/folders/1A5OmUSkW-co8ydWLIbL3s2L9hvpkd2hc
+
+linked list part2 :- https://drive.google.com/drive/folders/1GTcDGNqrVXHeoTiLaEhwbGS4Mtza8nfo
+
+stacks:- https://drive.google.com/drive/folders/1DGG5HkYHLyzweSWIJMSzES_RQ2O1X70w
+
+27. queue:- https://drive.google.com/drive/folders/13Ugb7UVqsbNEu74wcYBgfzh6zLCkPWdD
+
+greedy algorithm:- https://drive.google.com/drive/folders/1Kpgie-vktuGaUWFH1AFZwMES2kFilGHt
+
+binary tree part 1 :- https://drive.google.com/drive/folders/1L112sxcopbmKKvCL5KYrObL0TdmZVXRL
+
+binary tree part 2 :- https://drive.google.com/drive/folders/1L-cE7fcBKLlzxoilBxFen2FUnD_IGifZ
+
+binary tree part 3 :- https://drive.google.com/drive/folders/1Kw5gFf95ZGQ8jJ3eiKDebWhiLAFmg4gR
+
+bst part1 :- https://drive.google.com/drive/folders/1L1P08cWjnbhpSUVgSxZwBgkH-nujTHg1
+
+33. bst part2:-https://drive.google.com/drive/folders/1PkajhKW5qyl4o4dXVEvKwW8KRAZ6yYl4
+
+heaps :- https://drive.google.com/drive/folders/1PeyD2Xed5y6NIaZsIXjY7QwJuEtXrTYi
+
+hashing:-https://drive.google.com/drive/folders/1Sdchb0IumYLDwbig2hp6BXEaPPKK64TV
+
